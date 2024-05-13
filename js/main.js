@@ -26,7 +26,7 @@ const playlistId = '0IUDh2uaS3F8YV81z5XXdj';
   allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
   loading="lazy"
 />
-/*=============== Spotify =============*/
+
 
       /*============ MENU SHOW ==========*/
       /* Validate if constant exists */
