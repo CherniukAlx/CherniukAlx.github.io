@@ -13,6 +13,21 @@ const navMenu = document.getElementById('nav-menu'),
       navToggle = document.getElementById('nav-toggle'),
       navClose = document.getElementById('nav-close')
 
+/*=============== Spotify =============*/
+const playlistId = '0IUDh2uaS3F8YV81z5XXdj';
+
+<iframe
+  title="Spotify Embed: Recommendation Playlist "
+  src={`https://open.spotify.com/embed/playlist/0IUDh2uaS3F8YV81z5XXdj?utm_source=generator&theme=0`}
+  width="100%"
+  height="100%"
+  style={{ minHeight: '360px' }}
+  frameBorder="0"
+  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+  loading="lazy"
+/>
+/*=============== Spotify =============*/
+
       /*============ MENU SHOW ==========*/
       /* Validate if constant exists */
 if(navToggle){
